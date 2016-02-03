@@ -1,0 +1,3 @@
+Je t'ai répartit tout les fichiers dans plusieurs dossiers divisé par "Actes".
++ un schéma au cas où tu te perdes
++ un tableau , parce qu'il est 6h du matin et que je tombe et qu'écrire tout ça c'est chiant...
